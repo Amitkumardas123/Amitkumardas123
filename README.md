@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amit kumar das
-- 👀 I’m interested in Machine learning,Robotics,Data science
+- 👀 I’m interested in AI, Machine learning, Data science
 - 🌱 I’m currently learning Data science and Machine learning
 - 💞 I’m looking to collaborate on Machine learning project
 
